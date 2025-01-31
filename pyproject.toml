@@ -1,0 +1,5 @@
+[deploy.dependencies.apt]
+packages = [
+    "poppler-utils",
+    "tesseract-ocr-pol",
+]
